@@ -117,3 +117,19 @@ h1 {
 .label-score {
   margin-bottom: 2rem;
 }
+
+@media (max-width: 473px){
+  .guess{
+    width: 15rem;
+}
+.between {
+  font-size: 1.3rem;
+  position: absolute;
+  top: 1rem;
+  right: 1rem;
+}
+.btn {
+  font-size: 1.7rem;
+  padding: 1.7rem 2.7rem;
+}
+}

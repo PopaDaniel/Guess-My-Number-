@@ -125,7 +125,7 @@ h1 {
 .between {
   font-size: 1.3rem;
   position: absolute;
-  top: 1rem;
+  top: 0.5rem;
   right: 1rem;
 }
 .btn {
@@ -133,3 +133,4 @@ h1 {
   padding: 1.7rem 2.7rem;
 }
 }
+
